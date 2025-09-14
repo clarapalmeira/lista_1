@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 int main() {
-  float x;
+    int x;
     printf("Entre com o valor: ");
-    scanf("%f", &x);
-    printf("Valor com uma casa decimal: %.1f\n", x);
+    scanf("%d", &x);
+    printf("Hexadecimal: %X\n", x);
+    printf("Octal: %o\n", x);
     return 0;
 }
