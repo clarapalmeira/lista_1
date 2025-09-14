@@ -8,7 +8,7 @@ int main() {
  
     float salario_bruto;
     float salario_liquido;
-    float valor;
+
    
 
     printf("Escreva a quantidade de horas trabalhados pelo professor no mês: ");
